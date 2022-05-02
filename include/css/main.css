@@ -24,12 +24,17 @@ a
 	color: black;
 	text-decoration: underline;
 }
+img
+{
+	max-width: 95vw;
+}
 hr
 {
 	margin: 50px 0;
 }
 .wrapper
 {
+	max-width: 1000px;
 	margin: 0 20px;
 }
 .wrapper a
@@ -46,5 +51,5 @@ hr
 
 .q-el
 {
-	margin-bottom: 30px;
+	margin-bottom: 70px;
 }
