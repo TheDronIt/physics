@@ -53,3 +53,9 @@ hr
 {
 	margin-bottom: 70px;
 }
+
+.task__container
+{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, 250px);
+}
